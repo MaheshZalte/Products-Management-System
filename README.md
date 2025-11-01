@@ -44,7 +44,9 @@ It is built using **Spring Boot**, **Thymeleaf**, and **JPA/Hibernate**, featuri
 
 
 
-## 🎥 Project Demo
-<video src="Downloads\ProductAppDemo-ezgif.com-video-to-gif-converter.mp4" controls width="600"></video>
+## 🎬 Project Demo
+
+![Demo](https://github.com/MaheshZalte/Products-Management-System/blob/main/ProductAppDemo.gif)
+
 
 
