@@ -42,3 +42,9 @@ It is built using **Spring Boot**, **Thymeleaf**, and **JPA/Hibernate**, featuri
 
 ## 🏗️ Project Structure
 
+
+
+## 🎥 Project Demo
+<video src="Downloads\ProductAppDemo-ezgif.com-video-to-gif-converter.mp4" controls width="600"></video>
+
+
